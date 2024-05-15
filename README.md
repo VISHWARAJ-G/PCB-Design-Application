@@ -48,7 +48,7 @@ Threshold detection mechanisms are often integrated into the circuit to distingu
 7. Sensitivity Adjustment: Sensitivity adjustments may be incorporated to fine-tune the circuit's performance, allowing it to adapt to different signal strengths and environmental conditions.
 # Circuit Diagram
 
-![alt text](../cell.jpg)
+![alt text](cell.jpg)
 
 # Output
 
